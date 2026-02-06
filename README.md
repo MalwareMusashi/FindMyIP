@@ -29,5 +29,3 @@ Troubleshooting:
 - If you see "Not Found" for both, you're probably not connected to a network
 - If only MAC shows up, your adapter might not have an IP assigned yet
 - Run as administrator if you're having permission issues (shouldn't need to though)
-
-That's all there is to it.
