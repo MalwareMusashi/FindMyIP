@@ -1,4 +1,4 @@
-# FIndMyIP
+# FindMyIP
 NETWORK INFO SCRIPT
 ===================
 
