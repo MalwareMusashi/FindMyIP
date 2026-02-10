@@ -3,7 +3,7 @@ NETWORK INFO SCRIPT
 ===================
 
 What it does:
-Shows your computer's IPv4 address and MAC address in a simple window.
+Shows your computer's Hostname, IPv4 address, and MAC address in a simple window.
 Script now also displays the device hostname.
 
 How to use:
