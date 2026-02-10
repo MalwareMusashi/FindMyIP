@@ -4,6 +4,7 @@ NETWORK INFO SCRIPT
 
 What it does:
 Shows your computer's IPv4 address and MAC address in a simple window.
+Script now also displays the device hostname.
 
 How to use:
 Just double-click the .bat file. That's it.
@@ -16,8 +17,9 @@ What you'll see:
 -------------------------
 Device Network Info
 -------------------------
-IPv4 Address : 192.168.1.100
-MAC Address  : 00-1A-2B-3C-4D-5E
+Hostname     : "Device name"
+IPv4 Address : "IP address"
+MAC Address  : "Device MAC address"
 -------------------------
 
 Notes:
