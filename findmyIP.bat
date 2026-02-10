@@ -6,6 +6,9 @@ echo -------------------------
 echo Device Network Info
 echo -------------------------
 
+:: Get hostname
+echo Hostname     : %COMPUTERNAME%
+
 :: Get first IPv4 address
 for /f "tokens=2 delims=:" %%a in ('ipconfig ^| findstr /C:"IPv4 Address"') do (
   set "IP=%%a"
